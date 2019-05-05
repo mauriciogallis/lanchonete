@@ -127,10 +127,10 @@ O método inclui o lanche e retorna o mesmo com o preço já calculado e mostran
 
 ```
 <h1>Considerações Finais</h1><br/>
-Foi implementado os métodos para aumentar ou diminuir os preços dos ingredientes, está tudo documentado no Swagger,
+Todos os métodos estão documentados, basta acessar a página do swagger na aplicação(http://host:porta/swagger-ui.html)
 no documento não descrevia se as promoções eram acumulativas ou não, eu implementei de forma acumulativa. Em relação a 
 novas features acho que seria interessante implementar um cadastro de promoções, podendo criar novas promoções e desativar
-as antigas. E com certeza implementar testes unitários. 
+as antigas. Também acho indispensável a implementação de testes unitários, porém não obtive tempo suficiente para faze-los. 
 </body>
 
 
